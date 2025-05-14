@@ -35,10 +35,11 @@ Bu proje, EfficientNetB4 mimarisi kullanılarak akciğer görüntülerinin sın�
 
 ---
 
-## 🖼️ Örnek Arayüz
+## 🖼️ DATASET
 
 ![Sample UI](#)  
-<!-- Ekran görüntüsünü / arayüz resmini buraya ekleyebilirsin. -->
+Dataset'i bu adresten temin edebilirsiniz:
+# https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types/data
 
 ---
 
